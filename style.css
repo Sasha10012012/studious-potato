@@ -1,0 +1,65 @@
+body {
+  font-family: sans-serif;  
+}
+
+h1 {
+  font-size: 50px; text-align: center;
+}
+
+table {
+   border-collapse: collapse;
+   border: 1px solid lightgrey; 
+   margin: 10px; 
+   text-align: center; 
+   font-size: 20px; 
+}
+
+tr {
+   background-color: olive; 
+   color: white; 
+   border: 1px solid lightgrey;   
+}
+
+td {
+   background-color: olive; 
+   color: white; 
+   border: 1px solid lightgrey; 
+   padding: 0px;  
+}
+
+img {
+  width: 30px;
+  height: 30px;  
+}
+
+.salo {
+   padding: 5px; 
+   border: 1px solid lightgrey; 
+}
+
+.rika {
+  background-color: burlywood; 
+  color: black; 
+  padding: 5px; 
+  border: 1px solid lightgrey;  
+}
+
+.xaxa {
+   background-color: white; 
+   color: black; 
+   padding: 5px; 
+   border: 1px solid lightgrey; 
+}
+
+.vino {
+   background-color: burlywood; 
+   color: black; 
+   padding: 5px; 
+   border: 1px solid lightgrey; 
+}
+
+.ded {
+   background-color: white; 
+   color: black; 
+   padding: 5px; 
+}
